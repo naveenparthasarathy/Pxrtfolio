@@ -42,7 +42,7 @@ st.markdown("""
 }
 </style>         
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #008B8B;">
-  <a class="navbar-brand" href="https://youtu.be/dQw4w9WgXcQ?si=GaQx7RVGg2PWo2XS" target="_blank">Surprise</a>
+  # <a class="navbar-brand" href="https://youtu.be/dQw4w9WgXcQ?si=GaQx7RVGg2PWo2XS" target="_blank">Surprise</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
